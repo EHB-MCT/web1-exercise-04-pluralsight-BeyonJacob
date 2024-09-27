@@ -1,0 +1,42 @@
+body {
+
+    background: linear-gradient(to right, #651758, #311562, #1b1834);
+    font-family: sans-serif;
+} 
+
+h1 {
+
+color: #ff1675;
+font-size: 18px;
+
+}
+
+h2 {
+
+font-size: 48px;
+color: white;
+
+}
+
+p {
+
+    color: white;
+
+}
+
+a.button {
+
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff1675; /* Green background */
+    color: white;
+    text-decoration: none; /* Remove underline */
+    font-size: 16px;
+    border-radius: 50px; /* Makes the button rounded */
+    text-align: center; 
+    position: absolute;
+    left: 0;
+    top: 600px;
+    margin-left: 20px;
+
+}
